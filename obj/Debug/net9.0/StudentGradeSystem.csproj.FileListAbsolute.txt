@@ -1,0 +1,14 @@
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.exe
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.deps.json
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.runtimeconfig.json
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.dll
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.pdb
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.AssemblyInfoInputs.cache
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.AssemblyInfo.cs
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.dll
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\refint\StudentGradeSystem.dll
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.pdb
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.genruntimeconfig.cache
+C:\Users\saisa\.gemini\antigravity\scratch\StudentGradeSystem\obj\Debug\net9.0\ref\StudentGradeSystem.dll
